@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 matplotlib
@@ -8,3 +9,15 @@ urlextract
 nltk
 numpy
 scikit-learn
+=======
+streamlit
+pandas
+matplotlib
+seaborn
+wordcloud
+emoji
+urlextract
+nltk
+numpy
+scikit-learn
+>>>>>>> a6f8637ae1341b8c60c3703c06922500f7efabfc
