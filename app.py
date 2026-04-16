@@ -4,6 +4,12 @@ import helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+st.set_page_config(
+    page_title="Whatsapp Chat Analyzer",
+    page_icon="chat-icon.png",   # Emoji icon
+    layout="centered"
+)
+
 st.sidebar.title("Whatsapp Chat Analyzer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
