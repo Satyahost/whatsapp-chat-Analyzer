@@ -10,6 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
+
 st.sidebar.title("Whatsapp Chat Analyzer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")

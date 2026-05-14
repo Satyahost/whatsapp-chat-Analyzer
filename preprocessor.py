@@ -38,6 +38,7 @@ def preprocess(data):
     df['period'] = df['hour'].astype(str) + "-" + (df['hour'] + 1).astype(str)
     df['minute'] = df['date'].dt.minute
 
+
     period = []
     for hour in df[['day_name', 'hour']]['hour']:
         if hour == 23:
