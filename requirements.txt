@@ -9,7 +9,6 @@ urlextract
 nltk
 numpy
 scikit-learn
-
 streamlit
 pandas
 matplotlib
@@ -19,5 +18,5 @@ emoji
 urlextract
 nltk
 numpy
-scikit-learn
+
 
